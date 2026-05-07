@@ -8,5 +8,5 @@ este script tomo una lista de gastos diarios,calcula , total,promedio,maximo y m
 -Condicionales if/else
 -Operadores matematicos
 ## Como ejecutarlo
-'''bash
+```bash
 python analizador_gastos.py
